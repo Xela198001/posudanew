@@ -1,0 +1,18 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif; */
+
+body {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+/* div {
+    border: 1px solid red;
+} */
+
+.contaner {
+    /* border: 1px solid red; */
+    margin: 0 100px;
+    height: 5797px;
+    /* opacity: 0.2; */
+}
